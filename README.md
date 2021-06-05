@@ -4,11 +4,6 @@ Code for the CVPR2021 workshop paper "Noise Conditional Flow Model for Learning 
 
 Pre-trained weights and training script will be made fully soon.
 
-
-code/train.py is training code
-code/eval.py saves SR images in code/output_dir by using pretrained model in Confpath
-code/NTIRE21_Learning_SR_Space/measure.py is metric code which calculates Diversity, LRPSNR and LPIPS 
-
 #####
 
 eval.py:
