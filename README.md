@@ -9,7 +9,8 @@ code/eval.py saves SR images in code/output_dir by using pretrained model in Con
 code/NTIRE21_Learning_SR_Space/measure.py is metric code which calculates Diversity, LRPSNR and LPIPS 
 
 #####
-eval.py
+eval.py:
+
 To eval with pretrained model, please check model_path in Confpath. Pretriained models are in code/pretrained_model
 python eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path path/to/Confpath
 
@@ -18,12 +19,13 @@ path/to/LRpath is where LR images for test are
 path/to/Confpath is model parameter script which is in code/confs/~~~.yml
 
 #####
-measure.py
+measure.py:
+
 python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_samples scale_factor 
 path/to/Super-Resolution is code/output_dir
 
 #####
-train.py
+train.py:
 python train.py -opt path/to/Confpath
 path/to/Confpath is model parameter script which is in code/confs/~~~.yml
 
