@@ -24,7 +24,4 @@ train.py:
 python train.py -opt path/to/Confpath
 path/to/Confpath is model parameter script which is in code/confs/~~~.yml
 
-Do eval.py to save SR images and do measure.py to calculate scores
-4X.yml is X4 conf file and 8X.yml is X8 conf file
-
 
