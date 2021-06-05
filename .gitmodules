@@ -1,3 +1,6 @@
 [submodule "code/PerceptualSimilarity"]
 	path = code/PerceptualSimilarity
 	url = https://github.com/richzhang/PerceptualSimilarity.git
+[submodule "code/NTIRE21_Learning_SR_Space"]
+	path = code/NTIRE21_Learning_SR_Space
+	url = https://github.com/andreas128/NTIRE21_Learning_SR_Space.git
