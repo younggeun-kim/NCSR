@@ -6,7 +6,7 @@ Official NCSR training PyTorch Code for the CVPR2021 workshop paper "Noise Condi
 
 ##How to use repo
 ```.bash
-git clone --recursive https://github.com/andreas128/NTIRE21_Learning_SR_Space.git
+git clone --recursive https://github.com/younggeun-kim/NCSR.git
 ```
 
 
