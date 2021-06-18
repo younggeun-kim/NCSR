@@ -74,4 +74,6 @@ If you found our work useful, please don't forget to cite
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
+
 The code is heavily based on the [SRFlow implementation](https://github.com/andreas128/SRFlow)
