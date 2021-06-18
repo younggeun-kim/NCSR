@@ -48,6 +48,9 @@ python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_sample
 ```
 * path/to/Super-Resolution is code/output_dir. 
 
+## Pretrained weight
+[NCSR X4] https://drive.google.com/file/d/1I0oWgqHMQbYdJahT3GGziIfJnht-33to/view?usp=sharing
+
 ## Preparing data
 ```.bash
 cd code
@@ -55,5 +58,7 @@ python prepare_data.py /path/to/img_dir
 ```
 * If dataset mode is LRHR_IMG, just use img_dir.
 * If dataset mode is LRHR_PKL, please use this code.
+
+
 
 Pre-trained weights and README script details will be updated fully soon.
