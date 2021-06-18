@@ -13,14 +13,16 @@ git clone --recursive https://github.com/younggeun-kim/NCSR.git
 ## Training
 
 ```.bash
-python code/train.py -opt path/to/Confpath
+cd code
+python train.py -opt path/to/Confpath
 ```
 * path/to/Confpath is model parameter script which is in code/confs/~.yml
 
 ## Test
 
 ```.bash
-python code/eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path path/to/Confpath
+cd code
+python eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path path/to/Confpath
 ```
 * To eval with pretrained model, please check model_path in Confpath. 
 * Pretriained models should be in code/pretrained_model
