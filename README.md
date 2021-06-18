@@ -15,7 +15,7 @@ Official NCSR training PyTorch Code for the CVPR2021 workshop paper "Noise Condi
 </div>
 **We got 1st place in NTIRE2021 Learning the Super-Resolution Space. Our team name is Deepest
 
-These figures and tables are from https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Lugmayr_NTIRE_2021_Learning_the_Super-Resolution_Space_Challenge_CVPRW_2021_paper.pdf
+These figures and tables are from [NTRIE2021 Learning the Super-Resolution Space](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Lugmayr_NTIRE_2021_Learning_the_Super-Resolution_Space_Challenge_CVPRW_2021_paper.pdf)
 
 ## How to use repo
 ```.bash
@@ -49,9 +49,11 @@ python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_sample
 * path/to/Super-Resolution is code/output_dir. 
 
 ## Pretrained weight
-[NCSR X4] https://drive.google.com/file/d/1I0oWgqHMQbYdJahT3GGziIfJnht-33to/view?usp=sharing
+[NCSR X4](https://drive.google.com/file/d/1I0oWgqHMQbYdJahT3GGziIfJnht-33to/view?usp=sharing)
 
-[NCSR X8] https://drive.google.com/file/d/1R4QTAd4D6en6NOreqSY_mDObU6JNWXmM/view?usp=sharing
+[NCSR X8](https://drive.google.com/file/d/1R4QTAd4D6en6NOreqSY_mDObU6JNWXmM/view?usp=sharing)
+
+RRDB pretrained weights can be found in [SRFlow github](https://github.com/andreas128/SRFlow)
 
 ## Preparing data
 ```.bash
@@ -72,3 +74,4 @@ If you found our work useful, please don't forget to cite
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+The code is heavily based on the [SRFlow implementation](https://github.com/andreas128/SRFlow)
