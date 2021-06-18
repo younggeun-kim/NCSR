@@ -30,7 +30,8 @@ python eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path pat
 ## Measure
 
 ```.bash
-python code/NTIRE21_Learning_SR_Space/measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_samples scale_factor 
+cd code/NTIRE21_Learning_SR_Space
+python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_samples scale_factor 
 ```
 * path/to/Super-Resolution is code/output_dir. 
 
