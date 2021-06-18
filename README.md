@@ -60,3 +60,15 @@ python prepare_data.py /path/to/img_dir
 ```
 * If dataset mode is LRHR_IMG, just use img_dir.
 * If dataset mode is LRHR_PKL, please use this code.
+
+## Citation
+If you found our work useful, please don't forget to cite
+```
+@misc{kim2021noise,
+      title={Noise Conditional Flow Model for Learning the Super-Resolution Space}, 
+      author={Younggeun Kim and Donghee Son},
+      year={2021},
+      eprint={2106.04428},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
