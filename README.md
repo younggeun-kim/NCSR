@@ -25,7 +25,7 @@ python eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path pat
 python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_samples scale_factor 
 ```
 * path/to/Super-Resolution is code/output_dir. 
-* measure.py is in NTIRE21_Learning_SR_Space
+* measure.py is in code/NTIRE21_Learning_SR_Space/measure.py
 
 
 Pre-trained weights and README script details will be updated fully soon.
