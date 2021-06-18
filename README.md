@@ -76,4 +76,4 @@ If you found our work useful, please don't forget to cite
 }
 ```
 
-The code is heavily based on the [SRFlow implementation](https://github.com/andreas128/SRFlow)
+The code is based on the [SRFlow implementation](https://github.com/andreas128/SRFlow)
