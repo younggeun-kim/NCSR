@@ -5,13 +5,13 @@ Official NCSR training PyTorch Code for the CVPR2021 workshop paper "Noise Condi
 **NCSR: Noise Conditional Flow Model for Learning the Super-Resolution Space**(https://arxiv.org/abs/2106.04428)
 
 <div align="left">
-  <img src="docs/NCSR-fig1.png" style="float:left" width="250px">
-  <img src="docs/NCSR-table1.png" style="float:right" width="250px">
+  <img src="code/docs/NCSR-fig1.png" style="float:left" width="250px">
+  <img src="code/docs/NCSR-table1.png" style="float:right" width="250px">
 </div>
 
 <div align="left">
-  <img src="docs/NCSR-fig2.png" style="float:left" width="250px">
-  <img src="docs/NCSR-table2.png" style="float:right" width="250px">
+  <img src="code/docs/NCSR-fig2.png" style="float:left" width="250px">
+  <img src="code/docs/NCSR-table2.png" style="float:right" width="250px">
 </div>
 
 ## How to use repo
