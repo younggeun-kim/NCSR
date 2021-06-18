@@ -13,7 +13,7 @@ Official NCSR training PyTorch Code for the CVPR2021 workshop paper "Noise Condi
   <img src="code/docs/NCSR-fig3.png" style="float:left" width="400px">
   <img src="code/docs/NCSR-table3.png" style="float:right" width="400px">
 </div>
-We got 1st place in NTIRE2021 Learning the Super-Resolution Space and these figures and tables are from 
+We got 1st place in NTIRE2021 Learning the Super-Resolution Space and these figures and tables are from https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Lugmayr_NTIRE_2021_Learning_the_Super-Resolution_Space_Challenge_CVPRW_2021_paper.pdf
 
 ## How to use repo
 ```.bash
