@@ -48,5 +48,9 @@ python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_sample
 ```
 * path/to/Super-Resolution is code/output_dir. 
 
-
+## Preparing data
+```.bash
+cd code
+python prepare_data.py /path/to/img_dir
+```
 Pre-trained weights and README script details will be updated fully soon.
