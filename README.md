@@ -50,6 +50,7 @@ python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_sample
 
 ## Pretrained weight
 [NCSR X4] https://drive.google.com/file/d/1I0oWgqHMQbYdJahT3GGziIfJnht-33to/view?usp=sharing
+[NCSR X8] https://drive.google.com/file/d/1R4QTAd4D6en6NOreqSY_mDObU6JNWXmM/view?usp=sharing
 
 ## Preparing data
 ```.bash
