@@ -10,9 +10,10 @@ Official NCSR training PyTorch Code for the CVPR2021 workshop paper "Noise Condi
 </div>
 
 <div align="left">
-  <img src="code/docs/NCSR-fig3.png" style="float:left" width="250px">
-  <img src="code/docs/NCSR-table3.png" style="float:right" width="250px">
+  <img src="code/docs/NCSR-fig3.png" style="float:left" width="400px">
+  <img src="code/docs/NCSR-table3.png" style="float:right" width="400px">
 </div>
+We got 1st place in NTIRE2021 Learning the Super-Resolution Space and these figures and tables are from 
 
 ## How to use repo
 ```.bash
