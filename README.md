@@ -22,7 +22,7 @@ To eval with pretrained model, please check model_path in Confpath. Pretriained 
 ```.bash
 python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_samples scale_factor 
 ```
-path/to/Super-Resolution is code/output_dir
+path/to/Super-Resolution is code/output_dir. measure.py is in NTIRE21_Learning_SR_Space
 
 
 Pre-trained weights and README script details will be updated fully soon.
