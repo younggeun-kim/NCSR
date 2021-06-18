@@ -53,4 +53,7 @@ python measure.py OutName path/to/Ground-Truth path/to/Super-Resolution n_sample
 cd code
 python prepare_data.py /path/to/img_dir
 ```
+* If dataset mode is LRHR_IMG, just use img_dir.
+* If dataset mode is LRHR_PKL, please use this code.
+
 Pre-trained weights and README script details will be updated fully soon.
